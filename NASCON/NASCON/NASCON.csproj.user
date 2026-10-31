@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form32.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form33.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form34.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form35.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form36.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form37.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form38.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form39.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form40.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form41.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form42.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form43.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form44.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form45.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form46.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form47.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form48.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
